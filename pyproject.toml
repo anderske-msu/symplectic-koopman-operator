@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "symplectic-koopman-operator"
-version = "0.0.1"
+version = "0.0.2"
 description = "Structure for creating Koopman operators through training symplectic PyTorch neural networks"
 readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.10"
@@ -21,5 +21,5 @@ classifiers = [
 # TODO Improve examples and README.md
 
 [project.urls]
-Homepage = "https://github.com/MSU-Beam-Dynamics/symplectic-koopman-operator"
-"Bug Tracker" = "https://github.com/MSU-Beam-Dynamics/symplectic-koopman-operator/issues"
+Homepage = "https://github.com/anderske-msu/symplectic-koopman-operator"
+"Bug Tracker" = "https://github.com/anderske-msu/symplectic-koopman-operator/issues"
